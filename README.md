@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Daniel Tongwa
+# 👋 Hello, I'm daniel-237-art
 
 💻 Software Engineer with strong **low-level curiosity** and a passion for understanding how software interacts with hardware.
 
