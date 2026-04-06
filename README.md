@@ -10,6 +10,7 @@ My approach to programming focuses on writing **clean, efficient, and well-struc
 
 ## Social media platforms 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bonyohe-dañel7-daniel-a06404393)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/237672558269)
 
 ## 🚀 Interests
 
