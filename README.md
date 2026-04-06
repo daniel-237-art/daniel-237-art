@@ -22,10 +22,12 @@ My approach to programming focuses on writing **clean, efficient, and well-struc
 
 **Languages**
 
-- Java
+- HTML 5
+- CSS 3
+- Javascript
 - Python
-- C
-- x86 Assembly
+- C/C++
+- dart
 
 **Environment**
 
